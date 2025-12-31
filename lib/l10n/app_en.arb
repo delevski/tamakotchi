@@ -1,0 +1,15 @@
+{
+  "appTitle": "Tamagotchi",
+  "welcomeMessage": "Welcome to Tamagotchi!",
+  "signInWithGoogle": "Sign in with Google",
+  "feed": "Feed",
+  "clean": "Clean",
+  "play": "Play",
+  "sleep": "Sleep",
+  "stage": "Stage",
+  "age": "Age",
+  "stageBaby": "Baby",
+  "stageChild": "Child",
+  "stageTeen": "Teen",
+  "stageAdult": "Adult"
+}
